@@ -107,7 +107,8 @@ ocurrir; el máximo sin atípicos queda como referencia.
 **Demanda con el día máximo.** De cada vehículo se toma el día en que más energía cargó y su
 curva por hora, en la zona donde cargó. La suma de esas curvas da los kW por zona y hora si
 todos coinciden en su peor día (`4_modelo/curva_dia_maximo.py`; gráfica
-`6_graficas/curva_dia_maximo_por_zona.png`).
+`6_graficas/curva_dia_maximo_por_zona.png`). La misma curva separada por perfil de carga está en
+`curva_dia_maximo_lenta.png`, `curva_dia_maximo_semirrapida.png` y `curva_dia_maximo_rapida.png`.
 
 **Limitación.** El gasto promedio anual es casi igual en todos los vehículos (≈ 4,2 kWh/día,
 31 km/día), porque todos sortean de las mismas distribuciones.
