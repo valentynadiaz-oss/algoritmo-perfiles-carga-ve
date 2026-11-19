@@ -47,19 +47,29 @@ def main():
 
     graficar(total, "Demanda por zona y hora con el día de mayor carga de cada vehículo",
              "curva_dia_maximo_por_zona.png")
-    picos_tipo = {}
+    picos_tipo, perfiles = {}, {}
     for t, nombre in PERFILES.items():
         tabla = curva.xs(t, level="tipo").reindex(total.index, fill_value=0)
         graficar(tabla, f"Perfil de {nombre}: demanda por zona y hora (día máximo de cada vehículo)",
                  f"curva_dia_maximo_{t}.png")
         picos_tipo[t] = tabla.max(axis=1)
         picos_tipo[f"hora_pico_{t}"] = tabla.idxmax(axis=1)
+        perfiles[t] = pd.concat([tabla, tabla.sum().to_frame("TOTAL").T]).round(1)
     picos_tipo = pd.DataFrame(picos_tipo).round(1)
+
+    with pd.ExcelWriter(RESULTADOS / "matrices_por_perfil_de_carga.xlsx") as w:
+        pd.concat([total, total.sum().to_frame("TOTAL").T]).round(1).to_excel(
+            w, sheet_name="total", index_label="zona \\ hora (kW)")
+        for t, tabla in perfiles.items():
+            tabla.to_excel(w, sheet_name=t, index_label="zona \\ hora (kW)")
+        picos_tipo.to_excel(w, sheet_name="picos")
 
     with pd.ExcelWriter(RESULTADOS / "curva_dia_maximo_por_zona.xlsx") as w:
         pico.to_excel(w, sheet_name="pico_por_zona")
         picos_tipo.to_excel(w, sheet_name="pico_por_perfil")
         total.round(1).to_excel(w, sheet_name="zona_x_hora")
+        for t, tabla in perfiles.items():
+            tabla.to_excel(w, sheet_name=f"perfil_{t}", index_label="zona \\ hora (kW)")
         curva.round(1).to_excel(w, sheet_name="zona_tipo_x_hora")
         por_dia.groupby("vehiculo").max().rename("kwh_dia_max").to_frame().join(dia_max).to_excel(
             w, sheet_name="dia_max_por_vehiculo")

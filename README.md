@@ -95,6 +95,7 @@ se usa k-means.
 | `por_carro/cargas_por_hora.csv` | Cada hora en que un vehículo estuvo cargando |
 | `gasto_diario/gasto_diario_por_vehiculo.xlsx` | Resumen, ajuste de distribución, por zona y por vehículo |
 | `curva_dia_maximo_por_zona.xlsx` | kW por zona y hora sumando el día de mayor carga de cada vehículo |
+| `matrices_por_perfil_de_carga.xlsx` | Una matriz zona × hora (kW) por hoja: total, lenta, semirrápida y rápida |
 
 Los archivos de `por_carro/` y `perfiles_8760_horas.csv` son grandes y no se suben a git; se
 generan al correr.
