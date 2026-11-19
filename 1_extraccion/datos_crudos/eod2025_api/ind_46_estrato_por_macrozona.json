@@ -1,0 +1,1982 @@
+{
+ "1": {
+  "municipio": "Itagüí",
+  "macrozona": "Comuna 06",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.5248878274268581
+   },
+   {
+    "criterio": 2,
+    "valor": 0.3132959971133968
+   },
+   {
+    "criterio": 3,
+    "valor": 0.161816175459745
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "2": {
+  "municipio": "Itagüí",
+  "macrozona": "Comuna 05",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.0
+   },
+   {
+    "criterio": 2,
+    "valor": 0.7834888191533392
+   },
+   {
+    "criterio": 3,
+    "valor": 0.2165111808466608
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "3": {
+  "municipio": "Itagüí",
+  "macrozona": "Comuna 04",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.0
+   },
+   {
+    "criterio": 2,
+    "valor": 0.5087707652318258
+   },
+   {
+    "criterio": 3,
+    "valor": 0.49122923476817415
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "4": {
+  "municipio": "Itagüí",
+  "macrozona": "Comuna 03",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.0
+   },
+   {
+    "criterio": 2,
+    "valor": 0.5558459917621482
+   },
+   {
+    "criterio": 3,
+    "valor": 0.40116374022632345
+   },
+   {
+    "criterio": 4,
+    "valor": 0.04299026801152869
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "5": {
+  "municipio": "Bello",
+  "macrozona": "Comuna 05",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.05638699548668832
+   },
+   {
+    "criterio": 2,
+    "valor": 0.6451229391418185
+   },
+   {
+    "criterio": 3,
+    "valor": 0.29239554467486273
+   },
+   {
+    "criterio": 4,
+    "valor": 0.006094520696630249
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "6": {
+  "municipio": "Bello",
+  "macrozona": "Comuna 06",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.041912481606541416
+   },
+   {
+    "criterio": 2,
+    "valor": 0.8927197674406007
+   },
+   {
+    "criterio": 3,
+    "valor": 0.05356300108814113
+   },
+   {
+    "criterio": 4,
+    "valor": 0.011804749864716782
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "7": {
+  "municipio": "Itagüí",
+  "macrozona": "Comuna 02",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.0
+   },
+   {
+    "criterio": 2,
+    "valor": 0.17114116548186528
+   },
+   {
+    "criterio": 3,
+    "valor": 0.7884138341604194
+   },
+   {
+    "criterio": 4,
+    "valor": 0.040445000357715165
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "8": {
+  "municipio": "Bello",
+  "macrozona": "Comuna 03",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.0
+   },
+   {
+    "criterio": 2,
+    "valor": 0.2322643304952588
+   },
+   {
+    "criterio": 3,
+    "valor": 0.7636286923923503
+   },
+   {
+    "criterio": 4,
+    "valor": 0.004106977112391068
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "9": {
+  "municipio": "Bello",
+  "macrozona": "Comuna 07",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.0
+   },
+   {
+    "criterio": 2,
+    "valor": 0.09419269859319807
+   },
+   {
+    "criterio": 3,
+    "valor": 0.9058073014068019
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "10": {
+  "municipio": "Bello",
+  "macrozona": "Comuna 04",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.0
+   },
+   {
+    "criterio": 2,
+    "valor": 0.5402612830339586
+   },
+   {
+    "criterio": 3,
+    "valor": 0.4443332344390573
+   },
+   {
+    "criterio": 4,
+    "valor": 0.015405482526984019
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "11": {
+  "municipio": "Medellín",
+  "macrozona": "Robledo",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.15236748440381695
+   },
+   {
+    "criterio": 2,
+    "valor": 0.5082259568913512
+   },
+   {
+    "criterio": 3,
+    "valor": 0.33700813200074725
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.002398426704084436
+   }
+  ]
+ },
+ "12": {
+  "municipio": "Medellín",
+  "macrozona": "El Poblado",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.0057755235396297795
+   },
+   {
+    "criterio": 2,
+    "valor": 0.13552310515861105
+   },
+   {
+    "criterio": 3,
+    "valor": 0.12354167283381344
+   },
+   {
+    "criterio": 4,
+    "valor": 0.011761468506416312
+   },
+   {
+    "criterio": 5,
+    "valor": 0.1671989103278425
+   },
+   {
+    "criterio": 6,
+    "valor": 0.5561993196336869
+   }
+  ]
+ },
+ "13": {
+  "municipio": "Medellín",
+  "macrozona": "Manrique",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.44033416943546233
+   },
+   {
+    "criterio": 2,
+    "valor": 0.5000803597386376
+   },
+   {
+    "criterio": 3,
+    "valor": 0.0595854708259
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "14": {
+  "municipio": "Medellín",
+  "macrozona": "Guayabal",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.0
+   },
+   {
+    "criterio": 2,
+    "valor": 0.08099680461550345
+   },
+   {
+    "criterio": 3,
+    "valor": 0.564115220915745
+   },
+   {
+    "criterio": 4,
+    "valor": 0.218509688313714
+   },
+   {
+    "criterio": 5,
+    "valor": 0.13637828615503766
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "15": {
+  "municipio": "Medellín",
+  "macrozona": "Buenos Aires",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.10212684655016363
+   },
+   {
+    "criterio": 2,
+    "valor": 0.1513510574021944
+   },
+   {
+    "criterio": 3,
+    "valor": 0.7277479915171217
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.018774104530520287
+   }
+  ]
+ },
+ "16": {
+  "municipio": "Medellín",
+  "macrozona": "Belén",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.03683674630175047
+   },
+   {
+    "criterio": 2,
+    "valor": 0.46918381617429294
+   },
+   {
+    "criterio": 3,
+    "valor": 0.2780035446087995
+   },
+   {
+    "criterio": 4,
+    "valor": 0.15537888108103484
+   },
+   {
+    "criterio": 5,
+    "valor": 0.053289899967641684
+   },
+   {
+    "criterio": 6,
+    "valor": 0.007307111866480626
+   }
+  ]
+ },
+ "17": {
+  "municipio": "Medellín",
+  "macrozona": "Aranjuez",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.062059713351409494
+   },
+   {
+    "criterio": 2,
+    "valor": 0.609693436989361
+   },
+   {
+    "criterio": 3,
+    "valor": 0.32204071416987123
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0024045102747030055
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0038016252146554873
+   }
+  ]
+ },
+ "18": {
+  "municipio": "Medellín",
+  "macrozona": "La América",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.00959645656728583
+   },
+   {
+    "criterio": 2,
+    "valor": 0.041195683802310985
+   },
+   {
+    "criterio": 3,
+    "valor": 0.2242677769802178
+   },
+   {
+    "criterio": 4,
+    "valor": 0.3598184232119156
+   },
+   {
+    "criterio": 5,
+    "valor": 0.3651216594382697
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "19": {
+  "municipio": "Medellín",
+  "macrozona": "La Candelaria",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.0
+   },
+   {
+    "criterio": 2,
+    "valor": 0.21662370876401582
+   },
+   {
+    "criterio": 3,
+    "valor": 0.4464083628494505
+   },
+   {
+    "criterio": 4,
+    "valor": 0.2175531678409647
+   },
+   {
+    "criterio": 5,
+    "valor": 0.1194147605455689
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "20": {
+  "municipio": "Medellín",
+  "macrozona": "Villa Hermosa",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.4966838430264335
+   },
+   {
+    "criterio": 2,
+    "valor": 0.46630187794704037
+   },
+   {
+    "criterio": 3,
+    "valor": 0.03701427902652604
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "21": {
+  "municipio": "Medellín",
+  "macrozona": "Laureles-Estadio",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.0
+   },
+   {
+    "criterio": 2,
+    "valor": 0.002046202610177239
+   },
+   {
+    "criterio": 3,
+    "valor": 0.0031865103904780956
+   },
+   {
+    "criterio": 4,
+    "valor": 0.18044972702945367
+   },
+   {
+    "criterio": 5,
+    "valor": 0.7903051389752986
+   },
+   {
+    "criterio": 6,
+    "valor": 0.024012420994592457
+   }
+  ]
+ },
+ "22": {
+  "municipio": "Medellín",
+  "macrozona": "San Javier",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.3371538521606823
+   },
+   {
+    "criterio": 2,
+    "valor": 0.34401372441737205
+   },
+   {
+    "criterio": 3,
+    "valor": 0.15149759633885657
+   },
+   {
+    "criterio": 4,
+    "valor": 0.03945283822550207
+   },
+   {
+    "criterio": 5,
+    "valor": 0.08581751506792318
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0420644737896639
+   }
+  ]
+ },
+ "23": {
+  "municipio": "Itagüí",
+  "macrozona": "Comuna 01",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.009990438510604197
+   },
+   {
+    "criterio": 2,
+    "valor": 0.032894044877762076
+   },
+   {
+    "criterio": 3,
+    "valor": 0.9571155166116337
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "24": {
+  "municipio": "Caldas",
+  "macrozona": "Urbana Caldas",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.06191285723527848
+   },
+   {
+    "criterio": 2,
+    "valor": 0.7996649405924193
+   },
+   {
+    "criterio": 3,
+    "valor": 0.08862075082208883
+   },
+   {
+    "criterio": 4,
+    "valor": 0.04980145135021324
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "25": {
+  "municipio": "La Estrella",
+  "macrozona": "Urbana La Estrella",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.0026262076610989076
+   },
+   {
+    "criterio": 2,
+    "valor": 0.7487883407262395
+   },
+   {
+    "criterio": 3,
+    "valor": 0.24858545161266174
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "26": {
+  "municipio": "Barbosa",
+  "macrozona": "Urbana Barbosa",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.29300089055164535
+   },
+   {
+    "criterio": 2,
+    "valor": 0.6626399248390878
+   },
+   {
+    "criterio": 3,
+    "valor": 0.04435918460926682
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "27": {
+  "municipio": "Girardota",
+  "macrozona": "Urbana Girardota",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.003958822612189737
+   },
+   {
+    "criterio": 2,
+    "valor": 0.7744898867345772
+   },
+   {
+    "criterio": 3,
+    "valor": 0.22155129065323306
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "28": {
+  "municipio": "Bello",
+  "macrozona": "Comuna 02",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.019323995406295685
+   },
+   {
+    "criterio": 2,
+    "valor": 0.11102588778269931
+   },
+   {
+    "criterio": 3,
+    "valor": 0.5540167155600048
+   },
+   {
+    "criterio": 4,
+    "valor": 0.3156334012510004
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "29": {
+  "municipio": "Bello",
+  "macrozona": "Comuna 10",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.099161411986861
+   },
+   {
+    "criterio": 2,
+    "valor": 0.8563215398998365
+   },
+   {
+    "criterio": 3,
+    "valor": 0.04451704811330248
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "30": {
+  "municipio": "Medellín",
+  "macrozona": "Castilla",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.0021095263215873883
+   },
+   {
+    "criterio": 2,
+    "valor": 0.14278612554913175
+   },
+   {
+    "criterio": 3,
+    "valor": 0.8518566526040791
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.003247695525201798
+   }
+  ]
+ },
+ "31": {
+  "municipio": "Medellín",
+  "macrozona": "Popular",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.4537003738103621
+   },
+   {
+    "criterio": 2,
+    "valor": 0.5438177871575767
+   },
+   {
+    "criterio": 3,
+    "valor": 0.0
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0024818390320611953
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "32": {
+  "municipio": "Medellín",
+  "macrozona": "Doce de Octubre",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.19290660654066932
+   },
+   {
+    "criterio": 2,
+    "valor": 0.5682983735465272
+   },
+   {
+    "criterio": 3,
+    "valor": 0.2387950199128037
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "33": {
+  "municipio": "Medellín",
+  "macrozona": "Santa Cruz",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.11327843424110172
+   },
+   {
+    "criterio": 2,
+    "valor": 0.8821233470169655
+   },
+   {
+    "criterio": 3,
+    "valor": 0.004598218741932794
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "34": {
+  "municipio": "Bello",
+  "macrozona": "Comuna 11",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.5239305914492148
+   },
+   {
+    "criterio": 2,
+    "valor": 0.45170008235905784
+   },
+   {
+    "criterio": 3,
+    "valor": 0.024369326191727454
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "35": {
+  "municipio": "Copacabana",
+  "macrozona": "Urbana Copacabana",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.0
+   },
+   {
+    "criterio": 2,
+    "valor": 0.9766204103838665
+   },
+   {
+    "criterio": 3,
+    "valor": 0.012000748567385321
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.011378841048747946
+   }
+  ]
+ },
+ "36": {
+  "municipio": "Bello",
+  "macrozona": "Comuna 08",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.0
+   },
+   {
+    "criterio": 2,
+    "valor": 0.4281953987905816
+   },
+   {
+    "criterio": 3,
+    "valor": 0.5683803492549068
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0034242519545118096
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "37": {
+  "municipio": "Bello",
+  "macrozona": "Comuna 09",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.036165050055147585
+   },
+   {
+    "criterio": 2,
+    "valor": 0.8936100682328814
+   },
+   {
+    "criterio": 3,
+    "valor": 0.07022488171197114
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "38": {
+  "municipio": "Bello",
+  "macrozona": "Comuna 01",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.6029594799321759
+   },
+   {
+    "criterio": 2,
+    "valor": 0.39704052006782403
+   },
+   {
+    "criterio": 3,
+    "valor": 0.0
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "39": {
+  "municipio": "Bello",
+  "macrozona": "Comuna 12",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.9680503462297951
+   },
+   {
+    "criterio": 2,
+    "valor": 0.031949653770204915
+   },
+   {
+    "criterio": 3,
+    "valor": 0.0
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "40": {
+  "municipio": "Bello",
+  "macrozona": "Rural Bello",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.2683793980677196
+   },
+   {
+    "criterio": 2,
+    "valor": 0.7316206019322803
+   },
+   {
+    "criterio": 3,
+    "valor": 0.0
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "41": {
+  "municipio": "Barbosa",
+  "macrozona": "Rural Barbosa",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.17988312051912358
+   },
+   {
+    "criterio": 2,
+    "valor": 0.8083079482901946
+   },
+   {
+    "criterio": 3,
+    "valor": 0.00856005057787734
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0032488806128046586
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "42": {
+  "municipio": "Copacabana",
+  "macrozona": "Rural Copacabana",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.04135171477543168
+   },
+   {
+    "criterio": 2,
+    "valor": 0.9144524318303835
+   },
+   {
+    "criterio": 3,
+    "valor": 0.04419585339418473
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "43": {
+  "municipio": "Girardota",
+  "macrozona": "Rural Girardota",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.12128712075397767
+   },
+   {
+    "criterio": 2,
+    "valor": 0.8501943618857143
+   },
+   {
+    "criterio": 3,
+    "valor": 0.025759408664814704
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.002759108695493533
+   }
+  ]
+ },
+ "44": {
+  "municipio": "Medellín",
+  "macrozona": "Corregimiento San Sebastián de Palmitas",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.058152999542994306
+   },
+   {
+    "criterio": 2,
+    "valor": 0.7908913108463634
+   },
+   {
+    "criterio": 3,
+    "valor": 0.13807621649232263
+   },
+   {
+    "criterio": 4,
+    "valor": 0.008469758887403584
+   },
+   {
+    "criterio": 5,
+    "valor": 0.004409714230916118
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "45": {
+  "municipio": "Medellín",
+  "macrozona": "Corregimiento San Cristóbal",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.2411306781989603
+   },
+   {
+    "criterio": 2,
+    "valor": 0.5787573987570012
+   },
+   {
+    "criterio": 3,
+    "valor": 0.18011192304403864
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "46": {
+  "municipio": "Medellín",
+  "macrozona": "Corregimiento Altavista",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.022183689859120573
+   },
+   {
+    "criterio": 2,
+    "valor": 0.9740450073742819
+   },
+   {
+    "criterio": 3,
+    "valor": 0.003771302766597485
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "47": {
+  "municipio": "Medellín",
+  "macrozona": "Corregimiento Santa Elena",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.25890044780730587
+   },
+   {
+    "criterio": 2,
+    "valor": 0.5458562391845381
+   },
+   {
+    "criterio": 3,
+    "valor": 0.18128619965610776
+   },
+   {
+    "criterio": 4,
+    "valor": 0.013957113352048224
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "48": {
+  "municipio": "Medellín",
+  "macrozona": "Corregimiento San Antonio de Prado",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.011640396553126537
+   },
+   {
+    "criterio": 2,
+    "valor": 0.6142462687790761
+   },
+   {
+    "criterio": 3,
+    "valor": 0.37090227499696604
+   },
+   {
+    "criterio": 4,
+    "valor": 0.003211059670831418
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "49": {
+  "municipio": "Itagüí",
+  "macrozona": "Rural Itagüí",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.11328344580183636
+   },
+   {
+    "criterio": 2,
+    "valor": 0.8867165541981636
+   },
+   {
+    "criterio": 3,
+    "valor": 0.0
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "50": {
+  "municipio": "La Estrella",
+  "macrozona": "Rural La Estrella",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.260942163064577
+   },
+   {
+    "criterio": 2,
+    "valor": 0.6711316755976426
+   },
+   {
+    "criterio": 3,
+    "valor": 0.06792616133778039
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "51": {
+  "municipio": "Envigado",
+  "macrozona": "Zona 01",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0
+   },
+   {
+    "criterio": 2,
+    "valor": 0
+   },
+   {
+    "criterio": 3,
+    "valor": 0
+   },
+   {
+    "criterio": 4,
+    "valor": 0
+   },
+   {
+    "criterio": 5,
+    "valor": 0
+   },
+   {
+    "criterio": 6,
+    "valor": 0
+   }
+  ]
+ },
+ "52": {
+  "municipio": "Envigado",
+  "macrozona": "Zona 08",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.0
+   },
+   {
+    "criterio": 2,
+    "valor": 0.059566479567373966
+   },
+   {
+    "criterio": 3,
+    "valor": 0.93444128287767
+   },
+   {
+    "criterio": 4,
+    "valor": 0.005992237554955965
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "53": {
+  "municipio": "Envigado",
+  "macrozona": "Zona 07",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.0
+   },
+   {
+    "criterio": 2,
+    "valor": 0.29104932885048335
+   },
+   {
+    "criterio": 3,
+    "valor": 0.6673503704227618
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.04160030072675478
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "54": {
+  "municipio": "Envigado",
+  "macrozona": "Zona 06",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.01639152263642591
+   },
+   {
+    "criterio": 2,
+    "valor": 0.7778815435489423
+   },
+   {
+    "criterio": 3,
+    "valor": 0.1646967576722794
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.041030176142352395
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "55": {
+  "municipio": "Envigado",
+  "macrozona": "Zona 05",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.0
+   },
+   {
+    "criterio": 2,
+    "valor": 0.19452382701996157
+   },
+   {
+    "criterio": 3,
+    "valor": 0.2282942629250868
+   },
+   {
+    "criterio": 4,
+    "valor": 0.026004874729962425
+   },
+   {
+    "criterio": 5,
+    "valor": 0.32091466602151253
+   },
+   {
+    "criterio": 6,
+    "valor": 0.23026236930347677
+   }
+  ]
+ },
+ "56": {
+  "municipio": "Envigado",
+  "macrozona": "Zona 03",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.0
+   },
+   {
+    "criterio": 2,
+    "valor": 0.6032624167801859
+   },
+   {
+    "criterio": 3,
+    "valor": 0.2963397812214858
+   },
+   {
+    "criterio": 4,
+    "valor": 0.006087246326201397
+   },
+   {
+    "criterio": 5,
+    "valor": 0.09431055567212683
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "57": {
+  "municipio": "Envigado",
+  "macrozona": "Zona 09",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.0
+   },
+   {
+    "criterio": 2,
+    "valor": 0.024795164642326128
+   },
+   {
+    "criterio": 3,
+    "valor": 0.7029993538672259
+   },
+   {
+    "criterio": 4,
+    "valor": 0.2606247813925965
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.011580700097851462
+   }
+  ]
+ },
+ "58": {
+  "municipio": "Envigado",
+  "macrozona": "Zona 02",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.0
+   },
+   {
+    "criterio": 2,
+    "valor": 0.01681268601500484
+   },
+   {
+    "criterio": 3,
+    "valor": 0.2303072446277971
+   },
+   {
+    "criterio": 4,
+    "valor": 0.18817752044176164
+   },
+   {
+    "criterio": 5,
+    "valor": 0.5011879511603042
+   },
+   {
+    "criterio": 6,
+    "valor": 0.06351459775513212
+   }
+  ]
+ },
+ "59": {
+  "municipio": "Envigado",
+  "macrozona": "Zona 04",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.0
+   },
+   {
+    "criterio": 2,
+    "valor": 0.15223116187361396
+   },
+   {
+    "criterio": 3,
+    "valor": 0.17652813260175712
+   },
+   {
+    "criterio": 4,
+    "valor": 0.002581632680974755
+   },
+   {
+    "criterio": 5,
+    "valor": 0.32827650031235606
+   },
+   {
+    "criterio": 6,
+    "valor": 0.34038257253129817
+   }
+  ]
+ },
+ "60": {
+  "municipio": "Envigado",
+  "macrozona": "Rural 03",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.34477863832077565
+   },
+   {
+    "criterio": 2,
+    "valor": 0.4324301269907935
+   },
+   {
+    "criterio": 3,
+    "valor": 0.0
+   },
+   {
+    "criterio": 4,
+    "valor": 0.008531868784434174
+   },
+   {
+    "criterio": 5,
+    "valor": 0.022661001229478187
+   },
+   {
+    "criterio": 6,
+    "valor": 0.1915983646745185
+   }
+  ]
+ },
+ "61": {
+  "municipio": "Envigado",
+  "macrozona": "Rural 01",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.03344595898791001
+   },
+   {
+    "criterio": 2,
+    "valor": 0.27698891281178706
+   },
+   {
+    "criterio": 3,
+    "valor": 0.09698061220208859
+   },
+   {
+    "criterio": 4,
+    "valor": 0.060362268288611506
+   },
+   {
+    "criterio": 5,
+    "valor": 0.21905003754577643
+   },
+   {
+    "criterio": 6,
+    "valor": 0.31317221016382646
+   }
+  ]
+ },
+ "62": {
+  "municipio": "Envigado",
+  "macrozona": "Rural 02",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.14493096736246294
+   },
+   {
+    "criterio": 2,
+    "valor": 0.4822729187604598
+   },
+   {
+    "criterio": 3,
+    "valor": 0.09646121506890423
+   },
+   {
+    "criterio": 4,
+    "valor": 0.016879080013511526
+   },
+   {
+    "criterio": 5,
+    "valor": 0.18012729923458012
+   },
+   {
+    "criterio": 6,
+    "valor": 0.07932851956008136
+   }
+  ]
+ },
+ "63": {
+  "municipio": "Envigado",
+  "macrozona": "Rural 04",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.08482315084768058
+   },
+   {
+    "criterio": 2,
+    "valor": 0.8231147123439638
+   },
+   {
+    "criterio": 3,
+    "valor": 0.017449540510274593
+   },
+   {
+    "criterio": 4,
+    "valor": 0.022135252697710665
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0524773436003703
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "64": {
+  "municipio": "Sabaneta",
+  "macrozona": "Urbana Sabaneta",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.0
+   },
+   {
+    "criterio": 2,
+    "valor": 0.1744678694328331
+   },
+   {
+    "criterio": 3,
+    "valor": 0.662577725579567
+   },
+   {
+    "criterio": 4,
+    "valor": 0.1629544049876001
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "65": {
+  "municipio": "Sabaneta",
+  "macrozona": "Rural Sabaneta",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.0077407603574461215
+   },
+   {
+    "criterio": 2,
+    "valor": 0.6842249760276361
+   },
+   {
+    "criterio": 3,
+    "valor": 0.26834788345172694
+   },
+   {
+    "criterio": 4,
+    "valor": 0.03433716338903158
+   },
+   {
+    "criterio": 5,
+    "valor": 0.005349216774159259
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ },
+ "66": {
+  "municipio": "Caldas",
+  "macrozona": "Rural Caldas",
+  "grupos": [
+   {
+    "criterio": 1,
+    "valor": 0.16018447602545338
+   },
+   {
+    "criterio": 2,
+    "valor": 0.8146876522793255
+   },
+   {
+    "criterio": 3,
+    "valor": 0.02512787169522106
+   },
+   {
+    "criterio": 4,
+    "valor": 0.0
+   },
+   {
+    "criterio": 5,
+    "valor": 0.0
+   },
+   {
+    "criterio": 6,
+    "valor": 0.0
+   }
+  ]
+ }
+}
